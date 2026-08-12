@@ -1,0 +1,6 @@
+{
+  "name": "Hello Patlu",
+  "description": "A sweet, romantic web application saying Hello Patlu with interactive kisses, love notes, floating heart animations, and personal surprise messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
