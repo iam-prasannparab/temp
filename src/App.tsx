@@ -20,7 +20,7 @@ export default function App() {
   const [customNote, setCustomNote] = useState<string>(() => {
     return (
       localStorage.getItem('patlu_custom_note') ||
-      'Pattu, you make every day brighter, sweeter, and happier! Sending you endless love and a giant hug today and always. 😘❤️'
+      'Pratu, you make every day brighter, sweeter, and happier! Sending you endless love and a giant hug today and always. 😘❤️'
     );
   });
 
